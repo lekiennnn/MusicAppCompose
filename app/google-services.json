@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1034223845664",
+    "project_id": "musicappcompose",
+    "storage_bucket": "musicappcompose.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034223845664:android:a2e2ff4d85b65fbb95d745",
+        "android_client_info": {
+          "package_name": "com.example.musicappcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrZ8yvO4mt9WPNssBC_71qwoO8908IM9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
